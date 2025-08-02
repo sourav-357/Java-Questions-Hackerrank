@@ -1,3 +1,5 @@
+package Basics_Questions;
+
 import java.util.Scanner;
 
 public class InputOutput {
