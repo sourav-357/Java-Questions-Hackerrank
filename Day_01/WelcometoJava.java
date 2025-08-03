@@ -1,4 +1,4 @@
-package Basics_Questions;
+package Day_01;
 
 public class WelcometoJava {
     public static void main(String[] args) {
