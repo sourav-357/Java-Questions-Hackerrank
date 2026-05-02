@@ -11,7 +11,6 @@ public class intToString {
             // Convert integer to string
             String s = Integer.toString(n);
 
-            // Parse the string back to integer and compare
             if (n == Integer.parseInt(s)) {
                 System.out.println("Good job");
             } else {
